@@ -21,8 +21,4 @@ export const calculateTrinnskatt = (salary) => {
   return -1;
 }
 
-export const Calculator = () => {
-  return <div>Trinnskattskalkulator</div>;
-}
-
 export default Calculator;

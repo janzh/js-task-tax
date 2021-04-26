@@ -20,5 +20,3 @@ import React from "react";
 export const calculateTrinnskatt = (salary) => {
   return -1;
 }
-
-export default Calculator;
